@@ -1,0 +1,9 @@
+Package: me.shymemoriees.rose.action
+Name: Rose Activator Action
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Custom Haptic Feedback For Rose
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 9.0), libactivator, me.shymemoriees.rose
+Maintainer: ShyMemoriees
+Author: ShyMemoriees
+Section: Tweaks
